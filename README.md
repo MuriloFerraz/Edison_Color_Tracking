@@ -3,7 +3,7 @@ Desenvolvimento de robô com visão computacional, capaz de detectar e seguir ob
 
 #Material Utilizado
 
-- Intel&#174; Edison w/ Arduino Expansion Board;
+- Intel&#174; Edison w/ Arduino Expansion Board
 - Webcam Logitech&#174; c270
 
 
