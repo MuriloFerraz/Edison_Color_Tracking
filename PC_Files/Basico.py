@@ -97,7 +97,7 @@ while(1):
 
         ## brincadeira
         # criar uma linha do cento da tela ate o centro do moment
-        cv2.line(frame, (160,120), (cx,cy),(255,255,255),5)
+        cv2.line(frame, (scr_x,scr_y), (cx,cy),(255,255,255),5)
         ##
 
         ## brincadeira
