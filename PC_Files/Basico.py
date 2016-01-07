@@ -106,6 +106,9 @@ while(1):
         ##
 
         ##Brincadeira
+        # escrever no console se o objeto detectado esta em
+        # Superior Direito/Esquerdo, Inferior Direito/Esquerdo, Superior, inferior ou centro da tela
+        # Tome nota, a imagem eh invertida
         if cx > scr_x:
             if cy < scr_y:
                 print ' Superior Esquerdo '
