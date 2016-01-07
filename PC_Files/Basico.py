@@ -87,7 +87,7 @@ while(1):
         cv2.circle(frame,(cx,cy),10,(0,0,255),-1)
         ##
 
-        ##Bricadeira
+        ##Brincadeira
         # escrever na tela as coordenadas CX e CY do centro do moment 
         # coordenadas do centroid
         msg2 = 'CX: ' + str(cx) + ' CY: ' + str(cy)
